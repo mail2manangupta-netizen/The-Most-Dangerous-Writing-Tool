@@ -13,7 +13,7 @@ game_over = False
 duration = 5
 end_time = time.time() + duration
 
-duration_main = 10
+duration_main = 300
 end_time_main = time.time() + duration_main
 
 width = window.winfo_screenwidth()
